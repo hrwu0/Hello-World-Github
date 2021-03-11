@@ -9,7 +9,7 @@ steps:
 env:
 MY_VAR: Hi there! My name is
 FIRST_NAME: Haoran
-MIDDLE_NAME: 
+MIDDLE_NAME:. 
 LAST_NAME: WU
 run: |
 echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME
